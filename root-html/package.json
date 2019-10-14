@@ -1,0 +1,13 @@
+{
+  "name": "vue-micro-service",
+  "version": "1.0.0",
+  "description": "一个Vue微服务demo",
+  "scripts": {
+    "serve": "serve -s -l 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
